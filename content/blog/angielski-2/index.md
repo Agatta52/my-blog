@@ -2,6 +2,7 @@
 title: Angielski - 2. Databases
 date: "2023-12-13T17:07:03.284Z"
 description: "What is a database and DBMS?"
+slug: angielski-2
 ---
 ### What is a database and DBMS?
 

@@ -22,11 +22,26 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-image`,
+    `gatsby-plugin-postcss`,
+    `gatsby-plugin-emotion`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
         name: `blog`,
+      },
+    },
+    {
+      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      options: {
+        fields: [`title`, `tag`],
+        resolvers: {
+          MarkdownRemark: {
+            title: (node) => node.frontmatter.title,
+            tags: (node) => node.frontmatter.tags,
+            path: (node) => node.frontmatter.slug,
+          },
+        },
       },
     },
     {

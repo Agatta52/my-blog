@@ -2,6 +2,7 @@
 title: Angielski - 1. What is Information Technology?
 date: "2023-12-10T15:46:03.284Z"
 description: "Information Technology basics."
+slug: angielski-1
 ---
 
 Currently in highly competitive markets the key to success is information. Accurate, delivered on time and properly interpreted. Effective management of the strategic resource is one of the tasks of computer systems that are continuously evolving to meet the increasing needs of information recipients. Information Technology IT is an umbrella term that includes systems which provide information to support the analysis , data day operations and decision making processes in the company. In other words this term combines all tools which capture, store, process, exchange and use information. IT is becoming an increasingly significant element in the growth of every company.

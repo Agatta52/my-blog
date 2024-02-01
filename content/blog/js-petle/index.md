@@ -2,6 +2,7 @@
 title: JavaScript - pętle i tablice
 date: "2024-01-21T11:54:08.169Z"
 description: "Pętle: for, while, do while, for of oraz tablice"
+slug: js-petle
 ---
 
 ### Pętle

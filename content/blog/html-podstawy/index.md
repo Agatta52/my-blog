@@ -2,6 +2,7 @@
 title: HTML - podstawy
 date: "2023-12-10T13:12:39.121Z"
 description: "Przykłady podstawowych tagów oraz najczęściej używanych encji"
+slug: html-podstawy
 ---
 
 ### Podstawowe tagi w języku HTML

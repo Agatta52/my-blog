@@ -2,6 +2,7 @@
 title: GIT - podstawy
 date: "2024-01-08T21:23:06.169Z"
 description: "Podstawy GITa - Systemu Kontroli Wersji"
+slug: GIT-podstawy
 ---
 
 ### Podstawy

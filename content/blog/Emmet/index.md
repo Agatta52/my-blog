@@ -2,6 +2,7 @@
 title: Emmet
 date: "2023-12-14T12:02:03.284Z"
 description: "Przydatne skróty"
+slug: Emmet
 ---
 
 ### Skróty klawiaturowe

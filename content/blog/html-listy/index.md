@@ -2,6 +2,7 @@
 title: HTML - listy
 date: "2023-12-10T13:53:32.169Z"
 description: "Jak zrobić listę? Listy: numerowane, punktowane, definicji i tabele."
+slug: html-listy
 ---
 
 ### Lista numerowana

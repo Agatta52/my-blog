@@ -2,6 +2,7 @@
 title: GIT - praca zdalna
 date: "2024-01-20T16:49:06.169Z"
 description: "Zdalne repozytoria i gałęzie. Pobieranie i wysyłanie zmian, gałęzie śledzące."
+slug: GIT-praca-zdalna
 ---
 
 ### Wstęp do pracy zdalnej

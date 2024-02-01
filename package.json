@@ -8,12 +8,19 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "@fontsource/merriweather": "^5.0.3",
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
     "@fontsource-variable/montserrat": "^5.0.4",
+    "@fontsource/merriweather": "^5.0.3",
+    "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^3.0.2",
+    "elasticlunr": "^0.9.5",
     "gatsby": "^5.12.11",
+    "gatsby-plugin-emotion": "^8.13.0",
     "gatsby-plugin-feed": "^5.12.3",
     "gatsby-plugin-image": "^3.12.3",
     "gatsby-plugin-manifest": "^5.12.3",
+    "gatsby-plugin-postcss": "^6.13.0",
     "gatsby-plugin-sharp": "^5.12.3",
     "gatsby-remark-images": "^7.12.3",
     "gatsby-remark-prismjs": "^7.12.0",
@@ -23,10 +30,13 @@
     "gatsby-transformer-sharp": "^5.12.3",
     "prismjs": "^1.29.0",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "react-highlight-words": "^0.20.0",
+    "tailwindcss": "^3.4.1"
   },
   "devDependencies": {
-    "prettier": "^2.8.8"
+    "prettier": "^2.8.8",
+    "twin.macro": "^3.4.0"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [

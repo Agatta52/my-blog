@@ -2,6 +2,7 @@
 title: JavaScript - podstawy
 date: "2024-01-21T11:17:32.169Z"
 description: "JS - zmienne, typy danych, operatory"
+slug: js-podstawy
 ---
 
 ### Wstęp

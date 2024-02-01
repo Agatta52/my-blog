@@ -2,6 +2,7 @@
 title: Markdown - poradnik
 date: "2023-12-10T13:12:03.284Z"
 description: "Jak pisać w Markdown"
+slug: markdown
 ---
 
 This is my first post on my new fake blog! How exciting!

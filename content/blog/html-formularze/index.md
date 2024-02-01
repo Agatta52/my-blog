@@ -2,6 +2,7 @@
 title: HTML - formularze
 date: "2023-12-10T15:17:32.169Z"
 description: "Jak zrobić formularz? Login i hasło, radio, checkbox, data i czas. Przykładowe atrybuty do formularzy."
+slug: html-formularze
 ---
 
 ### Login i hasło

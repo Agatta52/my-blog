@@ -2,6 +2,7 @@
 title: GIT - wskaźniki, gałęzie, wycofywanie zmian
 date: "2024-01-20T14:41:06.169Z"
 description: "Wskaźniki GIT, rewizje, gałęzie: tworzenie, scalanie i konflikty, wycofywanie zmian: resetowanie, odwracanie rewizji"
+slug: GIT-galezie
 ---
 
 ### Wskaźniki GIT

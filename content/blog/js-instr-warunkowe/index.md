@@ -2,6 +2,7 @@
 title: JavaScript - instrukcje warunkowe
 date: "2024-01-21T11:19:56.169Z"
 description: "If , else if &  else, switch, operator warunkowy"
+slug: js-instr-warunkowe
 ---
 ### Instrukcje warunkowe
 ##### If, else if & else
