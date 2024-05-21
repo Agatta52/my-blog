@@ -2,7 +2,7 @@
 title: "#005 PowerShell" 
 date: "2024-03-15T21:37:06.169Z"
 description: "PowerShell to zaawansowane narzędzie wiersza poleceń i język skryptowy opracowany przez firmę Microsoft."
-slug: 004-cmd
+slug: 005-powershell
 ---
 
 ### Co to jest PowerShell?
