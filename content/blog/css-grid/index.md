@@ -1,5 +1,5 @@
 ---
-title: "#CSS - Grid" 
+title: "CSS - Grid" 
 date: "2024-06-23T13:14:06.169Z"
 description: "Krótki przewoodnik po GRID, czyli jak ustawić siatlkę w CSS"
 slug: css-grid
